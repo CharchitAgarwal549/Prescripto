@@ -28,8 +28,8 @@ Prescripto is a web-based platform designed to simplify appointment booking with
 ```
 
 Prescripto/
-│-- client/         # React frontend
-│-- server/         # Node.js + Express backend
+│-- frontend/         # React frontend
+│-- backend/         # Node.js + Express backend
 │-- models/         # MongoDB schemas
 │-- routes/         # API routes
 │-- controllers/    # Business logic for routes
